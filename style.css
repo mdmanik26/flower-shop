@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+/* First Section styles Starts */
+
+.first_Section{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.left_side_data{
+    width: 40%;
+    padding: 150px;
+}
+.first_Section_Heading{
+    font-size: 80px;
+    font-weight: 700;
+}
+.first_Section_info{
+    padding: 15px 0px;
+    width: 663px;
+    line-height: 33px;
+    color: grey;
+    font-size: 19px;
+}
+.banner_img{
+    margin-bottom: -3px;
+}
+.btn{
+    background: #E55473;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-size: 20px;
+    border: none;
+}
+
+
+
+
+
+
+/* First Section styles End */
