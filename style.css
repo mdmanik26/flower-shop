@@ -154,7 +154,7 @@ body{
     font-size: 40px;
     padding: 15px;
 }
-.Off{
+.Heading_color{
     color: #E55473;
 }
 .Hot_Deal_Info{
@@ -226,6 +226,33 @@ body{
 /* latest Deals section styles End */
 
 
+
+/* Footer Section styles start */
+
+.footer_Container{
+    background: #000;
+    color: white;
+    text-align: center;
+    padding: 140px 100px;
+}
+.footer_Paragraph{
+    color: rgba(255, 255, 255, 0.80);
+    line-height: 25px;
+    padding: 23px 10px;
+    font-size: 19px;
+}
+.Footer_title{
+    font-size: 48px;
+    
+}
+
+.copy_Right{
+    color: rgba(255, 255, 255, 0.40);
+    margin-top:25px;
+    
+}
+
+/* Footer Section styles End */
 
 
 
