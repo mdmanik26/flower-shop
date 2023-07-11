@@ -255,7 +255,93 @@ body{
 /* Footer Section styles End */
 
 
+/* Extra section styles start */
+.extra_Section{
+    width: 1440px;
+    height: 500px;
+    background-image: url(),
+    linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 25px auto;
+    border-radius: 10px;
+}
 
+.extra_Card{
+    width: 320px;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.extra_pic{
+    width: 60%;
+}
+.extra_Title{
+    color: white;
+    margin: auto;
+    width: 685px;
+    padding: 50px;
+    font-size: 40px;
+}
+.Rose_color{
+    color: #E55473;
+}
+.extra_Caption{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: white;
+    text-decoration: underline;
+}
+.extra_Item_left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 960px;
+
+}
+
+.extra_Item_Right{
+    width: 40%;
+    padding-left: 39px;
+    border-left: 3px solid white;
+
+}
+.extra_Items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Options {
+    width: 376px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0px;
+    font-size: 18px;
+    columns: grey;
+}
+
+.Form_Item {
+    width: 357px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0px;
+}
+/* .Order{
+    padding: 15px 25px;
+    border: none;
+    border-radius: 6px;
+} */
+.heading{
+    color: white;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+
+/* Extra section styles end */
 
 
 
