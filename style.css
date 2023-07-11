@@ -196,3 +196,42 @@ body{
 }
 
 /* Instagram Section styles End */
+
+
+
+
+/* latest Deals section styles start */
+
+.Latest_Deals_Container{
+    margin: 100px auto;
+    width: 1440px;
+    background-image: url(./Flower/Rectangle_9.png);
+    background-repeat: no-repeat;
+    height: 449px;
+    text-align: center;
+    
+}
+
+.Email_input{
+    width: 663px;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.Deals_Button{
+    padding: 15px 25px;
+    margin-left: 20px;
+}
+/* latest Deals section styles End */
+
+
+
+
+
+
+
+
+
+
+
