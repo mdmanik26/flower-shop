@@ -5,19 +5,25 @@
 body{
     font-family: sans-serif;
 }
+.Primary_P_Tag{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 19px;
+}
 /* First Section styles Starts */
 
 .first_Section{
+
     background: rgba(229, 84, 115, 0.10);
     display: flex;
-    justify-content: space-around;
+    gap: 90px;
     align-items: center;
     padding-top: 50px;
+    
 }
 
 .left_side_data{
     width: 40%;
-    padding: 150px;
+    padding-left: 220px;
 }
 .first_Section_Heading{
     font-size: 80px;
@@ -41,10 +47,130 @@ body{
     font-size: 20px;
     border: none;
 }
-
-
-
-
-
-
 /* First Section styles End */
+
+/* second Section styles starts */
+
+.second_part_headings{
+    text-align: center;
+    padding: 144px 100px 44px 100px;
+}
+.section_Title{
+    font-size: 40px;
+    margin-bottom: 25px;
+    font-weight: 00;
+    
+}
+
+/* second Section styles End */
+
+/* Flower cards styles start */
+
+.Flower_cards{
+    width: 80%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+
+.Flower_card{
+    background: red;
+    width: 415px;
+    height: 428px;
+    text-align: center;
+    padding: 120px 30px 0px 30px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.flower_card3 img{
+    width: 285px;
+    
+}
+.Flower_card1{
+    background: rgba(167, 33, 98, 0.15);
+}
+.Flower_card2{
+    background: rgba(5, 151, 160, 0.15);
+}
+.flower_card3{
+    background: rgba(71, 125, 17, 0.15);;
+}
+.flower_info{
+    text-decoration: underline;
+    font-size: 29px;
+    font-weight: 600;
+    color: #5a5454;
+}
+.Flower_card2 h3{
+    padding: 5px;
+}
+
+/* Flower cards styles end */
+
+
+/* Na korleo cholbe styles start */
+
+.Na_korleo_cholbe{
+    width: 77%;
+    height: 320px;
+    background: rgba(39, 39, 39, 0.05);
+    border-radius: 8px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 79px;
+}
+.first_card{
+    text-align: center;
+}
+
+.info{
+    padding: 20px;
+    font-size: 23px;
+    font-weight: 600 ;
+    color: rgba(39, 39, 39, 0.80);
+}
+
+/* Na korleo cholbe styles End */
+
+/* Hot Deal part styles Starts */
+
+.HOt_Deal_part{
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 220px;
+    padding: 70px 0px;
+}
+
+.Hot_Deal_Title{
+    font-size: 40px;
+    padding: 15px;
+}
+.Off{
+    color: #E55473;
+}
+.Hot_Deal_Info{
+    padding: 15px;
+    line-height: 30px;
+    color: grey;
+    font-weight: 600;
+    font-size: 18px;
+}
+.left_side_Hot{
+    text-align: center;
+}
+.Hot_Deal_Button{
+    margin-top: 15px;
+}
+
+/* Hot Deal part styles End */
+
+
