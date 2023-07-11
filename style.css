@@ -173,4 +173,26 @@ body{
 
 /* Hot Deal part styles End */
 
+/* Instagram Section styles starts */
 
+.second_part_headings{
+    text-align: center;
+    padding: 144px 100px 44px 100px;
+}
+.section_Title{
+    font-size: 40px;
+    margin-bottom: 25px;
+    font-weight: 00;
+    
+}
+.Instagram_cards{
+    display: flex;
+    width: 77%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 100px;
+   
+}
+
+/* Instagram Section styles End */
