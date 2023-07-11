@@ -232,6 +232,8 @@ body{
 .footer_Container{
     background: #000;
     color: white;
+    display: flex;
+    justify-content: center;
     text-align: center;
     padding: 140px 100px;
 }
